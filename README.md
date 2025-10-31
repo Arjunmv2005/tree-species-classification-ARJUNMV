@@ -1,4 +1,4 @@
-# 🌳 Tree Species Classification – AI Project by Bharath Bopanna
+# 🌳 Tree Species Classification – AI Project by Arjun m v
 
 This is a machine learning project that classifies tree species based on:
 - 📷 Tree images (using a CNN model)
